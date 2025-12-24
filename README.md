@@ -65,7 +65,6 @@ I am actively developing **AI Agents and intelligent workflows** using:
 
 ## 📫 Connect with Me
 
-- 📞 **Phone / WhatsApp**: [+593 993214221](https://wa.me/593993214221)
 - 💼 **LinkedIn**: [linkedin.com/in/jimmyuruchima](https://www.linkedin.com/in/jimmyuruchima)
 
 ---
