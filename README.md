@@ -1,19 +1,27 @@
 # Hi there 👋, I'm Jimmy Uruchima
 
-🚀 **PL/SQL & Data Engineer | AI Agents Developer | AWS Enthusiast**
+🚀 **AI Agentic Developer | Data Engineer | SQL · T-SQL · PL/SQL · Databricks · Python | LLMs · LangChain · MCP · RAG | Remote**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software professional with **10+ years of experience in Oracle PL/SQL and SQL**, focused on building efficient, scalable, and high-performance data solutions.
+My main experience has focused on the development, integration, and optimization of data solutions, working with technologies such as Oracle, SQL Server, and cloud environments, across projects in different sectors.
 
-Currently, I am expanding my expertise into **Artificial Intelligence and AI Agents**, working with modern frameworks and architectures.
+I have mainly worked on:
+Optimization of ETL processes and complex queries (SQL, T-SQL, PL/SQL)
+System and data integration through REST APIs (OIC, XML, JSON)
+Development of analytical solutions in Databricks (PySpark, Delta)
 
-🔹 Strong background in **Oracle PL/SQL, SQL tuning, ETL, and data optimization**  
-🔹 Experience in **remote projects and distributed teams**  
-🔹 1 year of hands-on experience with **Oracle Integration Cloud (OIC)**  
-🔹 Actively building **AI Agents** using modern tooling  
+I am currently focused on the development of applied AI solutions, with an emphasis on AI Agents and multi-agent systems, integrating language models with data, business workflows, and enterprise systems. As part of these solutions, I work with RAG techniques and Vector Databases to enable more accurate reasoning and responses.
+
+My main areas of focus include:
+🔹 LLMs & Agentic AI: LangChain, LangGraph, MCP, RAG
+🔹 Automation and Integration: APIs, workflow orchestration, tools-based agents
+🔹 Data + AI: Advanced SQL, Databricks, Python applied to AI
+🔹 Cloud Generative AI: AWS, Amazon Bedrock, and agent architectures in production
+
+This approach allows me to build practical, scalable AI solutions aligned with real business needs, combining my data expertise with modern AI capabilities.
 
 ---
 
